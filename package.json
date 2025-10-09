@@ -21,11 +21,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@vercel/ncc": "0.38.1",
-    "rimraf": "5.0.7",
+    "@vercel/ncc": "0.38.4",
+    "rimraf": "6.0.1",
     "ts-node": "10.9.2",
-    "typescript": "5.5.2",
-    "typescript-eslint": "7.14.1"
+    "typescript": "5.9.3",
+    "typescript-eslint": "8.46.0"
   },
   "dependencies": {
     "@apwide/golive-github-actions": "1.8.0"
